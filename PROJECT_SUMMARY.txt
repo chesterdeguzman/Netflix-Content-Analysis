@@ -1,0 +1,11 @@
+Netflix Content Analysis
+
+Rows: 8,807
+Columns: 12
+Movies: 6,131
+TV Shows: 2,676
+Top country: United States
+Top rating: TV-MA
+Top genre: Dramas
+Peak year added: 2019
+Median movie duration: 98 minutes
